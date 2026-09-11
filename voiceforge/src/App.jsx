@@ -25,7 +25,7 @@ function App() {
         <Route path="/voice" element={<VoiceConversation />} />
 
         <Route path="/shopping" element={<Shopping />} />
-        <Route path="/cooking" element={<Cooking />} />
+        <Route path="/Cooking" element={<Cooking />} />
         <Route path="/medical" element={<Medical />} />
         <Route path="/game-master" element={<GameMaster />} />
         <Route path="/documents" element={<Documents />} />
